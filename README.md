@@ -1,2 +1,3 @@
 # newstartup
- prvi web sajt
+
+Pokazni sajt samo HTML i CSS
